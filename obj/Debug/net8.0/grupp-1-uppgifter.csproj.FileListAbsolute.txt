@@ -1,0 +1,14 @@
+C:\Users\pojag\Desktop\grupp-1-uppgifter\bin\Debug\net8.0\grupp-1-uppgifter.exe
+C:\Users\pojag\Desktop\grupp-1-uppgifter\bin\Debug\net8.0\grupp-1-uppgifter.deps.json
+C:\Users\pojag\Desktop\grupp-1-uppgifter\bin\Debug\net8.0\grupp-1-uppgifter.runtimeconfig.json
+C:\Users\pojag\Desktop\grupp-1-uppgifter\bin\Debug\net8.0\grupp-1-uppgifter.dll
+C:\Users\pojag\Desktop\grupp-1-uppgifter\bin\Debug\net8.0\grupp-1-uppgifter.pdb
+C:\Users\pojag\Desktop\grupp-1-uppgifter\obj\Debug\net8.0\grupp-1-uppgifter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pojag\Desktop\grupp-1-uppgifter\obj\Debug\net8.0\grupp-1-uppgifter.AssemblyInfoInputs.cache
+C:\Users\pojag\Desktop\grupp-1-uppgifter\obj\Debug\net8.0\grupp-1-uppgifter.AssemblyInfo.cs
+C:\Users\pojag\Desktop\grupp-1-uppgifter\obj\Debug\net8.0\grupp-1-uppgifter.csproj.CoreCompileInputs.cache
+C:\Users\pojag\Desktop\grupp-1-uppgifter\obj\Debug\net8.0\grupp-1-uppgifter.dll
+C:\Users\pojag\Desktop\grupp-1-uppgifter\obj\Debug\net8.0\refint\grupp-1-uppgifter.dll
+C:\Users\pojag\Desktop\grupp-1-uppgifter\obj\Debug\net8.0\grupp-1-uppgifter.pdb
+C:\Users\pojag\Desktop\grupp-1-uppgifter\obj\Debug\net8.0\grupp-1-uppgifter.genruntimeconfig.cache
+C:\Users\pojag\Desktop\grupp-1-uppgifter\obj\Debug\net8.0\ref\grupp-1-uppgifter.dll

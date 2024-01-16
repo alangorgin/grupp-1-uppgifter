@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "grupp-1-uppgifter/1.0.0": {
+        "runtime": {
+          "grupp-1-uppgifter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "grupp-1-uppgifter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
